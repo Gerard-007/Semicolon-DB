@@ -1,0 +1,9 @@
+Key Tables:
+    Drivers:
+    DriverID, Name, Rating, TotalRides
+    Riders:
+    RiderID, Name, City
+    Rides:
+    RideID, DriverID, RiderID, Fare, Rating, DistanceKM
+    Payments:
+    PaymentID, RideID, Amount, PaymentMethod
